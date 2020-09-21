@@ -5,7 +5,7 @@
 
 int main()
 {
-	sf::RenderWindow window(sf::VideoMode(500, 500), "");
+	sf::RenderWindow window(sf::VideoMode(500, 500), "SFML tetris");
 	
 	while (window.isOpen())
 	{
